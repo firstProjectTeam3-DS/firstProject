@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="EUC-KR">
-<title>김대훈</title>
+<title>김대훈2</title>
 </head>
 <body>
 
